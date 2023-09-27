@@ -289,7 +289,7 @@ it's not a good practice to use `innerText` when setting the contents of an
 element. [This StackOverflow answer][so answer] does a good job explaining some
 differences between these properties.
 
-[mdn textcontent]:
+mdn textcontent]:
   https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
 [mdn innerhtml]:
   https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
